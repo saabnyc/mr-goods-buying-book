@@ -85,7 +85,7 @@ export default function App() {
     <div className="p-4 max-w-xl mx-auto">
       <h1 className="text-xl font-bold mb-2">Mr. Goods Buying Book</h1>
       <p className="mb-4 text-sm">
-        Store Info: Mr. Goods NYC LLC • 37 W 47th St, New York, NY 10036 • Phone: (646) 346-4930 • DCA License: #2104215-DCA
+        Store Info: Mr. Goods NYC LLC • 7 Maiden Ln New York NY 10038 • Phone: (646) 476-5355 • DCA License: #2115637-DCA
       </p>
 
       <form onSubmit={handleSubmit} className="space-y-4">
